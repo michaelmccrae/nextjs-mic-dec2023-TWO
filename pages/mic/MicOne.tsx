@@ -23,7 +23,7 @@ const MicOne = () => {
         echoCancellation: true,
       }} 
       downloadOnSavePress={true}
-      downloadFileExtension="wav"
+      downloadFileExtension="webm"
     />
       
     </div>
